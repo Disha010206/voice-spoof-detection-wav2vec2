@@ -195,7 +195,7 @@ The model was evaluated on a held-out test set:
 
 ---
 
-## 👤 Author
+## Author
 
 **C Disha**
 AIML Student
